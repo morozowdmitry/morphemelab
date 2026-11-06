@@ -2,6 +2,7 @@
   "schema_version": "segmentation.v1",
   "label_schema_version": "ru-proposed-v1",
   "word": "переписка",
+  "language": "ru",
   "segments": [
     {"start": 0, "end": 4, "type": "PREFIX"},
     {"start": 4, "end": 7, "type": "ROOT"},
